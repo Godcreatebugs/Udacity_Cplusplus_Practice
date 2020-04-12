@@ -1,0 +1,15 @@
+I think my project build successfully but comes to an end with segmentation fault.
+
+
+
+Now, this question has been asked already by my peers but my code is a little different. I have tried to build the Debug and Release directory and setting the flag. 
+But on running this files by gdb it just says reading an OSM.map files data. 
+
+It really is hard to debug program with print statements in all the function and how I am supposed to j=know which function has pointer out of bound. I am uploading my github repo and the code error. Can you help me with this?
+
+How can I solve this issue?
+
+
+https://github.com/Godcreatebugs/Udacity-OpenStreetMap-Astar
+
+
